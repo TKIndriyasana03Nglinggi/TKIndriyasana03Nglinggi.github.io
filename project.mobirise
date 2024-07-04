@@ -42,7 +42,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "1. TK Indriyasana 3 Nglinggi-clone-clone",
+    "name": "2. TK Indriyasana 3 Nglinggi-clone-clone-clone",
     "versionFirst": "5.9.6",
     "siteFonts": [
       {
@@ -72,7 +72,7 @@
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "d60qz8wchv",
+    "mbrsiteDomain": "zj4ebldhel",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
